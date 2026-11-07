@@ -8,6 +8,8 @@
     "https://raw.githubusercontent.com/artemkliaus/cy-news-media/main/posts/20261107103047/slide3.jpg",
     "https://raw.githubusercontent.com/artemkliaus/cy-news-media/main/posts/20261107103047/slide4.jpg"
   ],
-  "status": "pending",
-  "createdAt": "2026-11-07T10:30:47.321Z"
+  "status": "published",
+  "createdAt": "2026-11-07T10:30:47.321Z",
+  "igMediaId": "18111267593186659",
+  "publishedAt": "2026-11-07T10:31:32.002Z"
 }
